@@ -13,5 +13,11 @@ int main()
 	printf("What is your name?\n");
 	for(i=0;i<10;i++)	
 		scanf("%c",array[i]);
+	
+	printf("Latest update : by USER A\n");
 	printf("Latest update : by USER B \n"");
+
+	
+
+
 }
